@@ -95,4 +95,6 @@ python main.py
 * Need internet to connect for live data
 * Preferences are saved automatically on exit
 
+## IF you can't watch the video you can click this link
+https://drive.google.com/file/d/1PKzU5BydfbLrUN2rS7FSk8GYM2gr41Mn/view?usp=sharing
 
