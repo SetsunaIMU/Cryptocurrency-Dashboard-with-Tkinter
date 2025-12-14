@@ -73,8 +73,8 @@ project/
 1. Clone the repository
 
 ``` bash
-git clone https://github.com/SetsunaIMU/crypto-dashboard.git
-cd crypto-dashboard
+https://github.com/SetsunaIMU/Cryptocurrency-Dashboard-with-Tkinter
+cd Cryptocurrency-Dashboard-with-Tkinter
 ```
 
 2. Install the requirements for the project.
