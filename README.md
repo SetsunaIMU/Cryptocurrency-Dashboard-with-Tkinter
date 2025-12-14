@@ -73,7 +73,7 @@ project/
 1. Clone the repository
 
 ``` bash
-https://github.com/SetsunaIMU/Cryptocurrency-Dashboard-with-Tkinter
+git clone https://github.com/SetsunaIMU/Cryptocurrency-Dashboard-with-Tkinter
 cd Cryptocurrency-Dashboard-with-Tkinter
 ```
 
